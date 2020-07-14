@@ -1,2 +1,2 @@
-# leap_years_checker
+# Leap Years Checker
 Lists all leap years in a given interval.
